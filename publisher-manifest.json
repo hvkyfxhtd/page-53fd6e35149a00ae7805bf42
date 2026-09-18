@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "5bb3c7846e49d85b76cc963d",
+  "owner": "hvkyfxhtd",
+  "repo": "page-53fd6e35149a00ae7805bf42",
+  "title": "Catnet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "53fd6e35149a00ae7805bf42",
+      "a": "Catnet",
+      "b": "免费订阅clash节点",
+      "entity": "Catnet",
+      "brand": "Catnet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b365da76d18c188afea4bad7fb21310eb17b4c15a89511b5a7cdf84a748be6be",
+      "content": {
+        "primary_entity": "Catnet",
+        "keyword1": "Catnet",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择 Catnet 客户端，订阅导入方式各不相同。",
+          "AI_CLIENTS_TITLE": "Catnet 客户端匹配",
+          "AI_CLOSING_TEXT": "选定套餐后前往购买页完成订阅，再按客户端文档导入配置。",
+          "AI_CLOSING_TITLE": "开启 Catnet 连接",
+          "AI_DESCRIPTION": "，Catnet 提供基础版、旗舰版和团队版三档订阅，每月 100GB 到 1000GB 流量、3 到 20 台设备同时在线，按年付可享更低价格。旗舰版含 IPLC 专线并优化游戏加速，团队版支持企业定制路由。在对应客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "Catnet 套餐围绕流量、设备数和线路质量区分，可按使用场景直接对比挑选。",
+          "AI_FEATURES_TITLE": "Catnet 订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，VIP 高带宽节点，适合多人共享与企业路由。",
+          "AI_FEATURE_TEXT_3": "三档均支持按期订阅，按年付比月付更省，依客户端文档导入订阅即可开始使用。",
+          "AI_FEATURE_TITLE_1": "三档套餐分明",
+          "AI_FEATURE_TITLE_2": "按设备数选择",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "Catnet 使用步骤",
+          "AI_HERO_INTRO": "Catnet 提供多档海外加速订阅，覆盖日常浏览、流媒体解锁与游戏专线。按设备数量和每月流量在基础版、旗舰版、团队版之间选择，配合对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备海外加速订阅",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更省",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "最多 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻量单人或双设备；旗舰版兼顾流媒体与游戏；团队版面向多人共享与高流量需求。",
+          "AI_PLANS_TITLE": "Catnet 套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版、团队版中选出合适的一档。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统类型，了解 Catnet 订阅在当前客户端上的导入方式与适配要求。",
+          "AI_STEP_TEXT_3": "完成订阅后依照对应客户端文档导入配置，刷新节点列表即可连接。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Catnet 加速选套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度浏览与视频，旗舰版适合需要流媒体解锁和游戏加速的用户，团队版适合多设备或企业办公场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，可根据日常使用设备数量选择。",
+          "AI_FAQ_ANSWER_3": "各套餐均提供月付与年付两种周期，年付价格相当于十个月费用，长期使用更划算。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接即可，不同设备对应不同客户端，具体导入方式可参考客户端内说明文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 7x24 优先工单支持，团队版配备专属客户经理，使用中遇到问题可联系支持渠道。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Catnet 有哪些套餐可以选择？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在设备上导入订阅？",
+          "AI_FAQ_QUESTION_5": "遇到连接问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7b27e926d375bde3a3f11922f209fa88ef74b370b0ff7278f484a6aff4aaf082",
+    "sitemap.xml": "d2dd6e896db3c573113cbeebe09a7f52fd56dadb88892924face9dca73c570a1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "47a8cc4dcb71936d5ead033bbce3c030946e4eebb388f0f59756d31c78fa6395"
+}
